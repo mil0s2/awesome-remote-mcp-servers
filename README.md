@@ -1520,6 +1520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bilg](https://app.bilgai.com/docs/connect?ref=mcp-directory) `https://mcp.bilgai.com/mcp`
   [![Bilg MCP connector](https://glama.ai/mcp/connectors/com.bilgai/bilg/badges/score.svg)](https://glama.ai/mcp/connectors/com.bilgai/bilg)
   🔐 - Shared memory for coding agents and their teams: search docs, read and write epics, tasks and decisions.
+- [BotGathering](https://botgathering.com) `https://botgathering.com/mcp`
+  [![BotGathering MCP connector](https://glama.ai/mcp/connectors/com.botgathering/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/com.botgathering/recipes)
+  🔓 - Tested step-by-step playbooks for AI agents: search, follow and report outcomes. Free.
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
